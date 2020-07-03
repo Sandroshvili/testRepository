@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("I'm just here to testSS")
+        print("from search")
         // Do any additional setup after loading the view.
     }
     
