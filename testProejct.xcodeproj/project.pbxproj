@@ -14,6 +14,7 @@
 		1720044524AF3BFD00BCF924 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1720044324AF3BFD00BCF924 /* Main.storyboard */; };
 		1720044724AF3C0100BCF924 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1720044624AF3C0100BCF924 /* Assets.xcassets */; };
 		1720044A24AF3C0100BCF924 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1720044824AF3C0100BCF924 /* LaunchScreen.storyboard */; };
+		4193DEB224AF44D900A754DE /* testfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4193DEB124AF44D900A754DE /* testfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1720044624AF3C0100BCF924 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1720044924AF3C0100BCF924 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1720044B24AF3C0100BCF924 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4193DEB124AF44D900A754DE /* testfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				1720044824AF3C0100BCF924 /* LaunchScreen.storyboard */,
 				1720044B24AF3C0100BCF924 /* Info.plist */,
 				17084C9A24AF412400B1BE07 /* TESTController.swift */,
+				4193DEB124AF44D900A754DE /* testfile.swift */,
 			);
 			path = testProejct;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1720044224AF3BFD00BCF924 /* ViewController.swift in Sources */,
+				4193DEB224AF44D900A754DE /* testfile.swift in Sources */,
 				1720043E24AF3BFD00BCF924 /* AppDelegate.swift in Sources */,
 				1720044024AF3BFD00BCF924 /* SceneDelegate.swift in Sources */,
 				17084C9B24AF412400B1BE07 /* TESTController.swift in Sources */,
